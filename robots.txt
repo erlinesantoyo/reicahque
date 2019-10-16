@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thahbahzo.dudedaxue.com/sitemap.xml
